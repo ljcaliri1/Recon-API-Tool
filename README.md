@@ -1,6 +1,6 @@
-# Recon API Tool
+# ReconScope
 
-The Recon API Tool is a FastAPI-based application designed to assist penetration testers, red teamers, and cybersecurity enthusiasts in performing reconnaissance and enumeration tasks through a lightweight and modular REST API. It provides customizable endpoints for scanning, data gathering, and target profiling in pre-engagement and post-exploitation phases.
+The ReconScope is a FastAPI-based application designed to assist penetration testers, red teamers, and cybersecurity enthusiasts in performing reconnaissance and enumeration tasks through a lightweight and modular REST API. It provides customizable endpoints for scanning, data gathering, and target profiling in pre-engagement and post-exploitation phases.
 
 ## Features
 
@@ -18,7 +18,7 @@ The Recon API Tool is a FastAPI-based application designed to assist penetration
 ### Clone the repository
 ```bash
 git clone https://github.com/ljcaliri1/Recon-API-Tool.git
-cd Recon-API-Tool
+cd reconscope
 ```
 ### Create and activate a virtual environment
 ```bash
@@ -50,7 +50,7 @@ http://127.0.0.1:8000/docs
 
 ```
 
-Recon-API-Tool/
+ReconScope/
 ├── app/
 │   ├── main.py                # FastAPI app entry point
 │   ├── api/
