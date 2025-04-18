@@ -108,3 +108,14 @@ through a feature branch.
 ## License 
 
 This project is licensed under the MIT License. 
+
+
+---
+
+## Disclaimer
+
+This tool was created strictly for **educational purposes** and authorized **penetration testing** only.
+
+**Unauthourized or malicious use is prohibited.**
+
+The developer is **not responsible** for any misuse or damage caused by this tool.
